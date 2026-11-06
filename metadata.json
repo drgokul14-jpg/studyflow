@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow - Goal & Pattern Tracker",
+  "description": "Study tracking application to set custom goals, manage subject target days with interactive progress bars, analyze weekly study patterns, and export comprehensive reports to PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
